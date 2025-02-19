@@ -95,6 +95,17 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## **💬 Contact**
 If you have any questions or suggestions, feel free to open an issue or contact me via arya119000@gmail.com
 
+## ☕ Support Me
 
-## **Author**
-**Ayush Gangwar**
+Do you like My projects? You can show your support by buying me a coffee! Your contributions motivate me to keep improving and building more awesome projects. 💻❤  
+
+[![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](http://buymeacoffee.com/Arya182)
+
+
+## 📞 Contact
+
+For security-related queries or issues, reach out:
+
+📧 **Email:** [arya119000@gmail.com](mailto\:arya119000@gmail.com)\
+🔗 **GitHub:** [Arya182-ui](https://github.com/Arya182-ui)
+
